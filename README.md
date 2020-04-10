@@ -3,7 +3,7 @@ I completed the compulsory tasks:
 
 - Creating a database having the name MusicAlbums using Oracle
 
-- Crating a user with the name *dbase*and the password *sql*
+- Crating a user with the name *dbase* and the password *sql*
 
 - Creating the given tables, artists and albums
 
