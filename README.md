@@ -15,7 +15,7 @@ I completed the compulsory tasks:
 
 - Creating the DAO AlbumController class
 
-- Implementing a simpletest using my classes (see the testFunctionality method in the Database class)
+- Implementing a simple test using my classes (see the testFunctionality method in the Database class)
 (I must be missing something tho because it doesn't work the way it's supposed to)
 
 **Check the database.jpg image in order to see how the tables look like**
